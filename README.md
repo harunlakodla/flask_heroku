@@ -14,3 +14,5 @@
  Projemizin Hangi Sürüm ile Başlatılacağını sormakta
  
  #### DockerFile
+
+Projemiz de tam olarak hangi dil ve neleri başlatmamız gerektiğini giriyoruz.
